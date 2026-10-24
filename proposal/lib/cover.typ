@@ -4,11 +4,11 @@
   #v(60pt)
   #image("/media/image3.png", width: 149.05pt)
   #v(65pt)
-  #text(size: 16pt)[#strong[\[JUDUL KARYA]\]]
+  #text(size: 16pt)[#strong(title)]
   #v(29pt)
   #set par(leading: 1.13em)
   #set text(size: 12pt)
-  Disusun Oleh \[#strong(emph[#team\]]) :
+  Disusun Oleh [#strong(emph(team))] :
   #set text(style: "italic")
   #for m in members [\ #m]
 ]

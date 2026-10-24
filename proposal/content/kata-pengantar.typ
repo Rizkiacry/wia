@@ -1,7 +1,8 @@
 #import "../lib/theme.typ": *
 = KATA PENGANTAR
-#body[
-  Bagian kata pengantar berisi ucapan syukur, terima kasih, dan maksud tujuan dari penyusunan karya/proposal. Umumnya ditulis secara singkat, padat, dan sopan. Dalam kata pengantar juga dapat disebutkan pihak-pihak yang telah membantu, serta harapan tim terhadap hasil karya yang dibuat.
-  #v(1.2em)
-  #align(right)[(Tempat, Tanggal  Bulan 2026) \ TTD Ketua Tim \ (Nama Ketua Tim)]
-]
+#set par(leading: 0.63em, spacing: 0.63em)
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa. Proposal ini menjelaskan TANGGAP, web app pengaduan warga yang membuat setiap laporan punya nomor, petugas, dan riwayat yang bisa dilacak.
+
+Kami menyadari karya ini masih punya banyak kekurangan, jadi kritik dan saran sangat kami harapkan. Terima kasih kepada panitia dan semua pihak yang sudah membantu.
+#v(1.2em)
+#align(right)[24 Oktober 2026 \ Ketua Tim, \ Zain Akbar Rizkia]

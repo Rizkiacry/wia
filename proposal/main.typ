@@ -5,11 +5,11 @@
 
 #show: wia
 
-#cover(team: "Nama Tim", members: (
-  "Nama Ketua - Universitas",
-  "Nama Anggota 1 - Universitas",
-  "Nama Anggota 2 -Universitas",
-))
+#cover(
+  title: "TANGGAP: Web App Pengaduan Warga dengan Pelacakan Laporan yang Transparan",
+  team: "Tim TANGGAP",
+  members: ("Zain Akbar Rizkia - Institut Teknologi PLN",),
+)
 
 #toc()
 
